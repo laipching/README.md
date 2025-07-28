@@ -1,4 +1,4 @@
-# Aplicación Web de Análisis de Vehículos en Venta 🚗📊
+# Aplicación Web de Análisis de Vehículos en Ventas
 
 Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**, diseñada para visualizar de forma sencilla datos de anuncios de venta de vehículos en EE.UU.
 
